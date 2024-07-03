@@ -1,0 +1,4 @@
+.ferrari, .bugatti, .BMW{
+    display: flex;
+    justify-content: center;
+}
